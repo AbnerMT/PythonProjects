@@ -1,3 +1,4 @@
+![image](https://github.com/AbnerMT/PythonProjects/assets/100700943/bcaf6699-39d7-4e75-a2b8-dcd6db654805)
 # PythonProjects
-Projetos em Python
+Estou iniciando na área de progamação e o Python é a linguagem que estou me aprofundando no momento.</br> Aqui estão alguns dos meus exercícios feito nessa linguagem! 
 # Sejam bem vindos!
